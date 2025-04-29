@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/mysite/static/css/main.80668e81.css",
+    "main.js": "/mysite/static/js/main.e1ab912f.js",
+    "static/js/453.bbd998d3.chunk.js": "/mysite/static/js/453.bbd998d3.chunk.js",
+    "static/media/형민의 추억.jpg": "/mysite/static/media/형민의 추억.891009ff65db37464185.jpg",
+    "static/media/꽃ㅜ미남.PNG": "/mysite/static/media/꽃ㅜ미남.5f94c27ea3f830c99bfe.PNG",
+    "index.html": "/mysite/index.html",
+    "main.80668e81.css.map": "/mysite/static/css/main.80668e81.css.map",
+    "main.e1ab912f.js.map": "/mysite/static/js/main.e1ab912f.js.map",
+    "453.bbd998d3.chunk.js.map": "/mysite/static/js/453.bbd998d3.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.80668e81.css",
+    "static/js/main.e1ab912f.js"
+  ]
+}
