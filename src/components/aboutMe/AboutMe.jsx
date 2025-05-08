@@ -28,12 +28,10 @@ const AboutMe = () => {
                     <h2>{profileInfo.name}</h2>
                     <p className="profile-title">{profileInfo.title}</p>
                     <p className="profile-description">
-                        ㅎㅇ 평범한 수능 포기한 고3임
-                        고등학교 졸업장 받는게 제 목표임
+                        안녕하세요.
                     </p>
                     <p className="profile-description">
-                        학교에서 알아먹은게 없어서 실력을 쌓기 어려움요
-                        문제 해결 능력 키우고 싶음
+                        안녕하세요.
                     </p>
                     <div className="contact-info">
                         <p><strong>이메일:</strong>{profileInfo.email}</p>
